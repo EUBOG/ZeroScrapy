@@ -1,0 +1,2 @@
+# ZeroScrapy
+ZeroScrapy - учебный проект
